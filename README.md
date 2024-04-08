@@ -1,6 +1,6 @@
 # News App
 
-The News App is a user-friendly and modern web application built with React and the News API, allowing users to explore news articles from various categories such as business, entertainment, general, health, science, sports, and technology. With a customizable number of articles displayed per page and a responsive Navbar, this app offers a seamless and engaging news browsing experience. The project is open-source, licensed under the MIT License, and welcomes contributions from the community, adhering to a Code of Conduct for a respectful and collaborative environment.
+The News App is a user-friendly and modern web application built with React and the News API, allowing users to explore news articles from various categories such as business, entertainment, general, health, science, sports, and technology. With a customizable number of articles displayed per page and a responsive Navbar, this app offers a seamless and engaging news browsing experience. This project welcomes contributions from the community, adhering to a Code of Conduct for a respectful and collaborative environment.
 
 ## Table of Contents
 
